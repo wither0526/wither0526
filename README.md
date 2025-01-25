@@ -5,15 +5,14 @@
 </picture>
 
 ## Hi there 👋
-- 👋 Hi, I’m hitori bocchi
-- 👀 I’m interested in python and C++ create.
+- 👋 Hi, I’m wither
 - 👨‍🎓Undergraduate of HDU
-- 👥Member of ~~CTRL~~ CV Group of [@HDU-PHOENIX](https://github.com/HDU-PHOENIX)
-- RMer  
-- 📫 my e-mail conanben77@gmail.com
+- 👥Member of Mechanical Group of [@HDU-PHOENIX](https://github.com/HDU-PHOENIX)
+- 📫 email : tambretz550@gmail.com
 
 
-  [![hitori bocchi's GitHub stats](https://api-github-readme-stats.null-qwerty.top/api?username=wither0526&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wither0526)
+
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wither0526)
 
