@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 👋 Hi, I’m wither
 - 👨‍🎓 Undergraduate of HDU
-- 👥 A Little Member of Mechanical Group of [@HDU-PHOENIX](https://github.com/HDU-PHOENIX)
+- 👥 A Little Member of [@HDU-PHOENIX](https://github.com/HDU-PHOENIX)
 - 📫 email : tambretz550@gmail.com
 
 
