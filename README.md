@@ -1,4 +1,8 @@
-# Hi 👋, I'm wither
+<!-- <img src="https://images.null-qwerty.work/mea.png" width="25%" height="25%" alt="Mea" align=right /> -->
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F791F0&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+wither" alt="Typing SVG" /></a>
+</p>
 
 ### A robotic developer
 
@@ -10,11 +14,19 @@
 
 - **🎧 Music · 🎬 Film · 🏀 Sports · 🎮 Gaming · 💻 Code**
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31w3wht2mjbawg45nyqwagnyp6py&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31w3wht2mjbawg45nyqwagnyp6py&redirect=true)
+![Static Badge](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
+![Static Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
+![Static Badge](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Static Badge](https://img.shields.io/badge/ros-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Static Badge](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Static Badge](https://img.shields.io/badge/stm32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Static Badge](https://img.shields.io/badge/freertos-green?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Static Badge](https://img.shields.io/badge/windows-blue?style=for-the-badge)
+
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wither0526/wither0526/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wither0526/wither0526/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wither0526/wither0526/output/github-contribution-grid-snake.svg">
-</picture>
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31w3wht2mjbawg45nyqwagnyp6py&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
+  </a>
 </p>
