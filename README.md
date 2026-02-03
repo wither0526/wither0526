@@ -6,8 +6,15 @@
 
 - 🌱 I'm currently learning **Robotics 🤖**
 
-- 📫 How to reach me **tambretz550@gmail.com** or **507749421@qq.com**
+- 📫 How to reach me **tambretz550@gmail.com** & **507749421@qq.com**
 
 - **🎧 Music · 🎬 Film · 🏀 Sports · 🎮 Gaming · 💻 Code**
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31w3wht2mjbawg45nyqwagnyp6py&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31w3wht2mjbawg45nyqwagnyp6py&redirect=true)
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wither0526/wither0526/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wither0526/wither0526/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wither0526/wither0526/output/github-contribution-grid-snake.svg">
+</picture>
+</p>
