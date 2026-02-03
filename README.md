@@ -21,7 +21,6 @@
 ![Static Badge](https://img.shields.io/badge/stm32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/freertos-green?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Static Badge](https://img.shields.io/badge/windows-blue?style=for-the-badge)
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
