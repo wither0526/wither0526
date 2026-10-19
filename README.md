@@ -8,7 +8,7 @@
 
 - 🌱 I'm currently learning **Robotics 🤖**
 
-- 📫 How to reach me **tambretz550@gmail.com** & **507749421@qq.com**
+- 📫 How to reach me **brianbai0121@gmail.com** & **507749421@qq.com**
 
 - **🎧 Music · 🎬 Film · 🏀 Sports · 🎮 Gaming · 💻 Code**
 
